@@ -1,7 +1,7 @@
 # Estudos
  Aprendendo 
- **HTML**
- **CSS**
- **PYTHON**
- **JS**
+ - **HTML**
+ - **CSS**
+ - **PYTHON**
+ - **JS**
  
