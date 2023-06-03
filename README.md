@@ -1,2 +1,7 @@
-# HTML--CSS
- Aprendendo **HTML** e **CSS**
+# Estudos
+ Aprendendo 
+ **HTML**
+ **CSS**
+ **PYTHON**
+ **JS**
+ 
